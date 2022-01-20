@@ -1,0 +1,3 @@
+D:/code/android/demo/BitmapNdkDemo/app/.cxx/Debug/5p3k6x1q/armeabi-v7a/CMakeFiles/ndkdemo.dir
+D:/code/android/demo/BitmapNdkDemo/app/.cxx/Debug/5p3k6x1q/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/code/android/demo/BitmapNdkDemo/app/.cxx/Debug/5p3k6x1q/armeabi-v7a/CMakeFiles/rebuild_cache.dir

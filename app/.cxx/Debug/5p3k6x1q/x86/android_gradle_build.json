@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\code\\android\\demo\\BitmapNdkDemo\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\programs\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\code\\android\\demo\\BitmapNdkDemo\\app\\.cxx\\Debug\\5p3k6x1q\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\programs\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\code\\android\\demo\\BitmapNdkDemo\\app\\.cxx\\Debug\\5p3k6x1q\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ndkdemo-Debug-x86": {
+      "buildCommandComponents": [
+        "D:\\programs\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\code\\android\\demo\\BitmapNdkDemo\\app\\.cxx\\Debug\\5p3k6x1q\\x86",
+        "ndkdemo"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "ndkdemo",
+      "output": "D:\\code\\android\\demo\\BitmapNdkDemo\\app\\build\\intermediates\\cxx\\Debug\\5p3k6x1q\\obj\\x86\\libndkdemo.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

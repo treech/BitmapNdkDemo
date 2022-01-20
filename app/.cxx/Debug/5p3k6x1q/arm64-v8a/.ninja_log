@@ -1,0 +1,21 @@
+# ninja log v5
+0	828	664363659	CMakeFiles/ndkdemo.dir/native-lib.cpp.o	d4a62715f7b9adf9
+829	1130	664363660	D:/code/android/demo/BitmapNdkDemo/app/build/intermediates/cxx/Debug/5p3k6x1q/obj/arm64-v8a/libndkdemo.so	d371a34236bac3cb
+2	470	664364240	CMakeFiles/ndkdemo.dir/native-lib.cpp.o	ed8f787407cb2463
+471	602	664364240	D:/code/android/demo/BitmapNdkDemo/app/build/intermediates/cxx/Debug/5p3k6x1q/obj/arm64-v8a/libndkdemo.so	d371a34236bac3cb
+2	473	664364320	CMakeFiles/ndkdemo.dir/native-lib.cpp.o	ed8f787407cb2463
+473	615	664364320	D:/code/android/demo/BitmapNdkDemo/app/build/intermediates/cxx/Debug/5p3k6x1q/obj/arm64-v8a/libndkdemo.so	d371a34236bac3cb
+2	394	664364405	CMakeFiles/ndkdemo.dir/native-lib.cpp.o	ed8f787407cb2463
+395	547	664364405	D:/code/android/demo/BitmapNdkDemo/app/build/intermediates/cxx/Debug/5p3k6x1q/obj/arm64-v8a/libndkdemo.so	d371a34236bac3cb
+3	391	664364541	CMakeFiles/ndkdemo.dir/native-lib.cpp.o	ed8f787407cb2463
+392	563	664364542	D:/code/android/demo/BitmapNdkDemo/app/build/intermediates/cxx/Debug/5p3k6x1q/obj/arm64-v8a/libndkdemo.so	d371a34236bac3cb
+3	465	664364596	CMakeFiles/ndkdemo.dir/native-lib.cpp.o	ed8f787407cb2463
+465	601	664364596	D:/code/android/demo/BitmapNdkDemo/app/build/intermediates/cxx/Debug/5p3k6x1q/obj/arm64-v8a/libndkdemo.so	d371a34236bac3cb
+2	416	664365053	CMakeFiles/ndkdemo.dir/native-lib.cpp.o	d4a62715f7b9adf9
+416	556	664365053	D:/code/android/demo/BitmapNdkDemo/app/build/intermediates/cxx/Debug/5p3k6x1q/obj/arm64-v8a/libndkdemo.so	d371a34236bac3cb
+3	412	664365117	CMakeFiles/ndkdemo.dir/native-lib.cpp.o	d4a62715f7b9adf9
+2	158	664365295	D:/code/android/demo/BitmapNdkDemo/app/build/intermediates/cxx/Debug/5p3k6x1q/obj/arm64-v8a/libndkdemo.so	21ef4da76f484d60
+3	3711	664367260	CMakeFiles/ndkdemo.dir/native-lib.cpp.o	d4a62715f7b9adf9
+3711	4347	664367260	D:/code/android/demo/BitmapNdkDemo/app/build/intermediates/cxx/Debug/5p3k6x1q/obj/arm64-v8a/libndkdemo.so	21ef4da76f484d60
+2	410	664367330	CMakeFiles/ndkdemo.dir/native-lib.cpp.o	d4a62715f7b9adf9
+410	605	664367330	D:/code/android/demo/BitmapNdkDemo/app/build/intermediates/cxx/Debug/5p3k6x1q/obj/arm64-v8a/libndkdemo.so	21ef4da76f484d60

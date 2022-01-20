@@ -1,0 +1,7 @@
+Executable : D:\programs\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\code\android\demo\BitmapNdkDemo\app\.cxx\Debug\5p3k6x1q\arm64-v8a
+ndkdemo
+jvmArgs : 
+
